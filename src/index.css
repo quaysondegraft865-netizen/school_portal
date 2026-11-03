@@ -1,0 +1,128 @@
+@import "tailwindcss";
+
+:root {
+    --sidebar-bg: #14294b;
+    --sidebar-hover: #1e3a66;
+    --sidebar-active: #2b4c7e;
+    --bg-main: #f4f6f9;
+    --white: #ffffff;
+    --text-main: #111827;
+    --text-muted: #6b7280;
+    --gold: #d9b84a;
+    --blue-banner-start: #102a56;
+    --blue-banner-end: #1a3c73;
+    --yellow-bg: #fef3c7;
+    --yellow-text: #92400e;
+    --gray-bg: #f3f4f6;
+    --gray-text: #4b5563;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: var(--bg-main);
+    color: var(--text-main);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background: rgba(100, 116, 139, 0.3);
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(100, 116, 139, 0.5);
+}
+
+/* Student / Admin Panel CSS Rules */
+.left-panel-student {
+    background-color: #051c48;
+    background-image: url('/background-portal-image.png');
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+}
+
+.left-panel-admin {
+    background-color: #051c48;
+    background-image: url('/young-scholars-graduation.png');
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+}
+
+.tracking-wide {
+    letter-spacing: 2px;
+}
+
+.student-image-container {
+    position: relative;
+    height: 48%;
+    overflow: hidden;
+}
+
+.student-img {
+    mix-blend-mode: luminosity;
+    opacity: 0.8;
+    mask-image: linear-gradient(to top, rgba(0,0,0,1) 50%, rgba(0,0,0,0));
+    -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,1) 50%, rgba(0,0,0,0));
+}
+
+.custom-input {
+    background-color: #eef4fc;
+    border: 1px solid #b6c9e2;
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    font-weight: 500;
+    width: 100%;
+    color: #111827;
+    outline: none;
+    transition: all 0.2s ease;
+}
+
+.custom-input:focus {
+    background-color: #ffffff;
+    border-color: #051c48;
+    box-shadow: 0 0 0 0.25rem rgba(5, 28, 72, 0.15);
+}
+
+.custom-btn {
+    background-color: #153c78;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    padding: 0.8rem;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: center;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.custom-btn:hover {
+    background-color: #0d264d;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(21, 60, 120, 0.3);
+}
+
+@media print {
+    .no-print {
+        display: none !important;
+    }
+    .print-only {
+        display: block !important;
+    }
+    body {
+        background: white !important;
+    }
+}

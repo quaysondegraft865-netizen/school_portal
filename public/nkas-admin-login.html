@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Login | Nkroful Agricultural Secondary Technical School</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+        .left-panel { background-color: #051c48; background-image: url('young-scholars-graduation.png'); background-size: cover; background-position: center; background-blend-mode: overlay; }
+        .tracking-wide { letter-spacing: 2px; }
+        .student-image-container { position: relative; height: 50%; overflow: hidden; }
+        .student-img { mix-blend-mode: luminosity; opacity: 0.8; mask-image: linear-gradient(to top, rgba(0,0,0,1) 50%, rgba(0,0,0,0)); -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,1) 50%, rgba(0,0,0,0)); }
+        .login-form-container { padding: 2rem; }
+        .custom-input { background-color: #eef4fc; border: 1px solid #b6c9e2; padding: 0.75rem 1rem; border-radius: 8px; font-weight: 500; }
+        .custom-input:focus { background-color: #fff; border-color: #051c48; box-shadow: 0 0 0 0.25rem rgba(5, 28, 72, 0.15); }
+        .custom-input-group .custom-input { border-right: none; }
+        .custom-input-group .toggle-password { background-color: #eef4fc; border: 1px solid #b6c9e2; border-left: none; border-radius: 0 8px 8px 0; color: #555; }
+        .custom-input-group .custom-input:focus + .toggle-password { background-color: #fff; border-color: #051c48; }
+        .custom-btn { background-color: #153c78; border: none; border-radius: 8px; font-weight: 600; padding: 0.8rem; transition: all 0.3s ease; }
+        .custom-btn:hover { background-color: #0d264d; transform: translateY(-2px); box-shadow: 0 4px 12px rgba(21, 60, 120, 0.3); }
+    </style>
+</head>
+<body>
+    <div class="login-container d-flex min-vh-100">
+        <div class="left-panel col-md-6 d-flex flex-column justify-content-between p-5 text-white">
+            <div>
+                <div class="d-flex align-items-center mb-5">
+                    <img src="logo.jpg" alt="NKAS Logo" class="me-3" style="width:80px;height:80px;border-radius:50%;border:3px solid #fff;">
+                    <div class="fw-bold lh-1">
+                        <div>NKROFUL</div>
+                        <div>AGRICULTURAL</div>
+                        <div>SECONDARY TECHNICAL</div>
+                        <div>SCHOOL</div>
+                    </div>
+                </div>
+                <p class="text-uppercase tracking-wide mb-2">AKWAABA</p>
+                <h1 class="display-4 fw-bold mb-2">Admin Portal</h1>
+                <p class="fs-5">Knowledge &bull; Discipline &bull; Service</p>
+            </div>
+            <div class="student-image-container">
+                <img src="new-portal-login.png" alt="Students" class="student-img img-fluid w-100">
+            </div>
+        </div>
+        <div class="col-md-6 d-flex align-items-center justify-content-center bg-white">
+            <div class="login-form-container w-100">
+                <div class="mb-4">
+                    <h2 class="fw-bold text-dark">Welcome Admin!</h2>
+                    <p class="text-muted">Enter your admin ID and password.</p>
+                </div>
+                <form action="admin-login.php" method="POST">
+                    <div class="mb-3">
+                        <label for="adminId" class="form-label fw-medium">Admin ID</label>
+                        <input type="text" class="form-control custom-input" id="adminId" name="adminId" placeholder="Enter your Admin ID" autocomplete="username" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="password" class="form-label fw-medium">Password</label>
+                        <div class="input-group custom-input-group">
+                            <input type="password" class="form-control custom-input" id="password" name="password" placeholder="Enter your password" autocomplete="current-password" required>
+                            <button type="button" class="btn toggle-password" id="togglePassword" aria-label="Toggle password visibility">
+                                <i class="fa-regular fa-eye"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn custom-btn text-white w-100 mt-3">Sign in</button>
+                </form>
+                <footer class="mt-5 text-center text-muted small">
+                    <p>&copy; 2026 NKROFUL AGRICULTURAL SECONDARY TECHNICAL SCHOOL</p>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script>
+        const togglePassword = document.getElementById('togglePassword');
+        const passwordInput = document.getElementById('password');
+        togglePassword.addEventListener('click', function () {
+            const type = passwordInput.getAttribute('type') === 'password' ? 'text' : 'password';
+            passwordInput.setAttribute('type', type);
+            const icon = this.querySelector('i');
+            if (type === 'text') icon.classList.replace('fa-eye', 'fa-eye-slash');
+            else icon.classList.replace('fa-eye-slash', 'fa-eye');
+        });
+    </script>
+</body>
+</html>

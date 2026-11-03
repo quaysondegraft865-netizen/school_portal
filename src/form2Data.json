@@ -1,0 +1,2944 @@
+{
+  "2 APPLIED TECH 1": [
+    {
+      "ns": 1,
+      "name": "ACKAH CLINTON"
+    },
+    {
+      "ns": 2,
+      "name": "ACKAH SHADRACK"
+    },
+    {
+      "ns": 3,
+      "name": "ADONLE SYLVESTER"
+    },
+    {
+      "ns": 4,
+      "name": "AFACHAW EBENEZER YAW"
+    },
+    {
+      "ns": 5,
+      "name": "AMOFA ISAAC"
+    },
+    {
+      "ns": 6,
+      "name": "AMUZU ALPHONSE MAWUKO"
+    },
+    {
+      "ns": 7,
+      "name": "ANLIMAH MICHAEL"
+    },
+    {
+      "ns": 8,
+      "name": "ANNAN BENJAMIN"
+    },
+    {
+      "ns": 9,
+      "name": "ANNAN STEPHEN"
+    },
+    {
+      "ns": 10,
+      "name": "ANZELE SYLVESTER"
+    },
+    {
+      "ns": 11,
+      "name": "APPIAH KUBI RICHMOND"
+    },
+    {
+      "ns": 12,
+      "name": "ASIEDU JUSTICE"
+    },
+    {
+      "ns": 13,
+      "name": "ASIGBEY PATIENCE"
+    },
+    {
+      "ns": 14,
+      "name": "BAIDOO JOSEPH KRAH"
+    },
+    {
+      "ns": 15,
+      "name": "BAIDOO SARAPHINE"
+    },
+    {
+      "ns": 16,
+      "name": "BLAY JEREMIAH"
+    },
+    {
+      "ns": 17,
+      "name": "BOADI KELVIN"
+    },
+    {
+      "ns": 18,
+      "name": "BOSON JOSEPH EDWARD"
+    },
+    {
+      "ns": 19,
+      "name": "COBBINAH DANIEL KAKU"
+    },
+    {
+      "ns": 20,
+      "name": "CUDJOE BETTY"
+    },
+    {
+      "ns": 21,
+      "name": "DONKOR JOSEPH"
+    },
+    {
+      "ns": 22,
+      "name": "DZAMESHIE SHEMF CHIEF"
+    },
+    {
+      "ns": 23,
+      "name": "EKPAHAH ABRAHAM"
+    },
+    {
+      "ns": 24,
+      "name": "EMMANUEL ARTHUR AGYARE"
+    },
+    {
+      "ns": 25,
+      "name": "ENTSIE NATHANIEL LAWRENCE"
+    },
+    {
+      "ns": 26,
+      "name": "ERZANE OBED ACKAH"
+    },
+    {
+      "ns": 27,
+      "name": "ERZOAH LOUIS MENLAH"
+    },
+    {
+      "ns": 28,
+      "name": "ESSIEN NICHOLAS FUFI"
+    },
+    {
+      "ns": 29,
+      "name": "ESSILFIE MAXWELL BAAH"
+    },
+    {
+      "ns": 30,
+      "name": "ESSUMAN ERNEST"
+    },
+    {
+      "ns": 31,
+      "name": "FORSON JOEL"
+    },
+    {
+      "ns": 32,
+      "name": "GYAN PAUL"
+    },
+    {
+      "ns": 33,
+      "name": "KAINYAH ARMSTRONG ARMACHIE"
+    },
+    {
+      "ns": 34,
+      "name": "KWAAH DOMINIC KOFI"
+    },
+    {
+      "ns": 35,
+      "name": "KWASI SAMUEL"
+    },
+    {
+      "ns": 36,
+      "name": "KWAW FELICITY"
+    },
+    {
+      "ns": 37,
+      "name": "KWAW STEPHEN"
+    },
+    {
+      "ns": 38,
+      "name": "KWOFIE ERIC"
+    },
+    {
+      "ns": 39,
+      "name": "KWOFIE LOUIS"
+    },
+    {
+      "ns": 40,
+      "name": "KWOFIE PHILIP LINCOLN"
+    },
+    {
+      "ns": 41,
+      "name": "MIEZAH PETER EGYABU"
+    },
+    {
+      "ns": 42,
+      "name": "NIMSON HAGAR"
+    },
+    {
+      "ns": 43,
+      "name": "NOMAH THEOPHILUS"
+    },
+    {
+      "ns": 44,
+      "name": "OSEI WILLIAMS"
+    },
+    {
+      "ns": 45,
+      "name": "QUAYSON JOHN"
+    },
+    {
+      "ns": 46,
+      "name": "SIMSONS AIYSHA"
+    }
+  ],
+  "2 APPLIED TECH 2": [
+    {
+      "ns": 1,
+      "name": "ABUBAKAR SADICK SULEIMAN"
+    },
+    {
+      "ns": 2,
+      "name": "ACQUAH FREDRICK"
+    },
+    {
+      "ns": 3,
+      "name": "ADDO EMMANUEL GYAN"
+    },
+    {
+      "ns": 4,
+      "name": "ADJALOO MAXWELL ELLIASON"
+    },
+    {
+      "ns": 5,
+      "name": "AGODZO OBED"
+    },
+    {
+      "ns": 6,
+      "name": "AGYIRI ISAAC KWESI"
+    },
+    {
+      "ns": 7,
+      "name": "AIDOO SAMUEL"
+    },
+    {
+      "ns": 8,
+      "name": "ALEX MENSAH"
+    },
+    {
+      "ns": 9,
+      "name": "ALIBAH JOHN"
+    },
+    {
+      "ns": 10,
+      "name": "AMADU MAMUNA"
+    },
+    {
+      "ns": 11,
+      "name": "AMIHERE FRANK HOPE"
+    },
+    {
+      "ns": 12,
+      "name": "AMOAH MICHAEL"
+    },
+    {
+      "ns": 13,
+      "name": "AMONYIMAH AUGUSTUS"
+    },
+    {
+      "ns": 14,
+      "name": "ANGAMAH RICHARD"
+    },
+    {
+      "ns": 15,
+      "name": "ANNAN FRANCIS"
+    },
+    {
+      "ns": 16,
+      "name": "ARMAH MICHAEL SANDY"
+    },
+    {
+      "ns": 17,
+      "name": "ARMOO GODWILL JOSEPH KUMI"
+    },
+    {
+      "ns": 18,
+      "name": "ASANTE BENJAMIN YAW"
+    },
+    {
+      "ns": 19,
+      "name": "ASANTE KINGSLEY"
+    },
+    {
+      "ns": 20,
+      "name": "ASARE ENOCK TAWIAH"
+    },
+    {
+      "ns": 21,
+      "name": "ASHIATEY RODOLF TEI"
+    },
+    {
+      "ns": 22,
+      "name": "AUGUSTUS AMONYIMAH"
+    },
+    {
+      "ns": 23,
+      "name": "AWUAH CIARA"
+    },
+    {
+      "ns": 24,
+      "name": "AZANE CLEMENT"
+    },
+    {
+      "ns": 25,
+      "name": "BAFFOE AUGUSTINE"
+    },
+    {
+      "ns": 26,
+      "name": "BAFFOUR JUSTICE"
+    },
+    {
+      "ns": 27,
+      "name": "BAIDOO THOMAS KOBBY"
+    },
+    {
+      "ns": 28,
+      "name": "BANVO UTHMAN"
+    },
+    {
+      "ns": 29,
+      "name": "BISSUE SAMUEL SADAH"
+    },
+    {
+      "ns": 30,
+      "name": "COBBINAH BRIGHT"
+    },
+    {
+      "ns": 31,
+      "name": "COBBINAH JAMES"
+    },
+    {
+      "ns": 32,
+      "name": "COBBINAH KELVIN OSCAR"
+    },
+    {
+      "ns": 33,
+      "name": "COBBINAH SHADRACK"
+    },
+    {
+      "ns": 34,
+      "name": "CUDJOE ISHMAEL"
+    },
+    {
+      "ns": 35,
+      "name": "DADZIE JONATHAN MESSI"
+    },
+    {
+      "ns": 36,
+      "name": "DOMPOR STEPHEN"
+    },
+    {
+      "ns": 37,
+      "name": "EHOMAH BLESS"
+    },
+    {
+      "ns": 38,
+      "name": "EMMANUEL MIAH"
+    },
+    {
+      "ns": 39,
+      "name": "ERIC BERMAH"
+    },
+    {
+      "ns": 40,
+      "name": "ERZOUAH BARNABAS"
+    },
+    {
+      "ns": 41,
+      "name": "ESSOUN MESHACK"
+    },
+    {
+      "ns": 42,
+      "name": "ESSUMAN STEPHANIE"
+    },
+    {
+      "ns": 43,
+      "name": "ETTI DESMOND"
+    },
+    {
+      "ns": 44,
+      "name": "EWUR PRINCE NYAMEKYE"
+    },
+    {
+      "ns": 45,
+      "name": "GAMOR RICHMOND"
+    },
+    {
+      "ns": 46,
+      "name": "HAMMOND JOHN TAWIAH"
+    },
+    {
+      "ns": 47,
+      "name": "ISHMAEL MORRISON"
+    },
+    {
+      "ns": 48,
+      "name": "KAKU DESMOND"
+    },
+    {
+      "ns": 49,
+      "name": "KEGYA GEORGE"
+    },
+    {
+      "ns": 50,
+      "name": "KODUAH ISAAC"
+    },
+    {
+      "ns": 51,
+      "name": "KORANKYE FELIX"
+    },
+    {
+      "ns": 52,
+      "name": "KORANKYE SOLOMON"
+    },
+    {
+      "ns": 53,
+      "name": "KUMSON GABRIEL KOFI"
+    },
+    {
+      "ns": 54,
+      "name": "KWAMECHIE GIDEON"
+    },
+    {
+      "ns": 55,
+      "name": "MANU ELIJAH KWASI"
+    },
+    {
+      "ns": 56,
+      "name": "MENLIVOLEWIE ABRAHAM"
+    },
+    {
+      "ns": 57,
+      "name": "MENSAH F.KYEREWAA"
+    },
+    {
+      "ns": 58,
+      "name": "MENSAH PATRICK"
+    },
+    {
+      "ns": 59,
+      "name": "MENSAH SYLVESTER"
+    },
+    {
+      "ns": 60,
+      "name": "MIEZAH ISAIAH"
+    },
+    {
+      "ns": 61,
+      "name": "MUSAH NUHU"
+    },
+    {
+      "ns": 62,
+      "name": "NEPURI GODFRED KUULOYIRI"
+    },
+    {
+      "ns": 63,
+      "name": "NKANSAH JAMES NANA"
+    },
+    {
+      "ns": 64,
+      "name": "NKUAH FOSTER"
+    },
+    {
+      "ns": 65,
+      "name": "NYAMEKEH BRIGHT"
+    },
+    {
+      "ns": 66,
+      "name": "NYARKO DESMOND"
+    },
+    {
+      "ns": 67,
+      "name": "OBENG PRINCE KOJO"
+    },
+    {
+      "ns": 68,
+      "name": "OHOH JAMES"
+    },
+    {
+      "ns": 69,
+      "name": "OPOKU STEPHEN"
+    },
+    {
+      "ns": 70,
+      "name": "OSEI KELVIN NKUM"
+    },
+    {
+      "ns": 71,
+      "name": "OWUSU KINGSLEY"
+    },
+    {
+      "ns": 72,
+      "name": "PASCO PHILEMON"
+    },
+    {
+      "ns": 73,
+      "name": "SAGOE JAMES"
+    },
+    {
+      "ns": 74,
+      "name": "SMITH RUDOLF MARCUS"
+    },
+    {
+      "ns": 75,
+      "name": "VICTOR FRANK"
+    },
+    {
+      "ns": 76,
+      "name": "WIREDU ARTHUR EMMANUEL"
+    },
+    {
+      "ns": 77,
+      "name": "YALLEY BERNICE EBELLE"
+    }
+  ],
+  "2 ARTS 1": [
+    {
+      "ns": 1,
+      "name": "ABDUL-RAHMAN BARKISU"
+    },
+    {
+      "ns": 2,
+      "name": "ABRAHAM MAAME EFUA"
+    },
+    {
+      "ns": 3,
+      "name": "ACKON CHRISTABEL"
+    },
+    {
+      "ns": 4,
+      "name": "ADUBOAHENE ABIGAIL"
+    },
+    {
+      "ns": 5,
+      "name": "AHMED HARUN NABILA"
+    },
+    {
+      "ns": 6,
+      "name": "AIDOO WINIFRED"
+    },
+    {
+      "ns": 7,
+      "name": "AKYENE REBCCA"
+    },
+    {
+      "ns": 8,
+      "name": "ALLOUA ABIGAIL AKUA"
+    },
+    {
+      "ns": 9,
+      "name": "ALUSIAH CHRISTABEL AKOSUA"
+    },
+    {
+      "ns": 10,
+      "name": "AMOASI EVELYN ADJEIBA"
+    },
+    {
+      "ns": 11,
+      "name": "AMPONSAH EMMANUEL"
+    },
+    {
+      "ns": 12,
+      "name": "ANAABA EDWARD"
+    },
+    {
+      "ns": 13,
+      "name": "ANDOH NANA ABENA EFIBA"
+    },
+    {
+      "ns": 14,
+      "name": "ANLIMAH FELICIA"
+    },
+    {
+      "ns": 15,
+      "name": "ANNOR HERTY"
+    },
+    {
+      "ns": 16,
+      "name": "ARMA-ACKAH RICHMOND KABI"
+    },
+    {
+      "ns": 17,
+      "name": "ARTHUR CLEMENT"
+    },
+    {
+      "ns": 18,
+      "name": "ARTHUR EVELYN MIAH"
+    },
+    {
+      "ns": 19,
+      "name": "ARTHUR KATE-LOVE"
+    },
+    {
+      "ns": 20,
+      "name": "ARTHUR MERCY"
+    },
+    {
+      "ns": 21,
+      "name": "ASARE CHRISTABEL"
+    },
+    {
+      "ns": 22,
+      "name": "AWUNI EDITH"
+    },
+    {
+      "ns": 23,
+      "name": "AYEPAH FRANCIS NANA ESI ADOM"
+    },
+    {
+      "ns": 24,
+      "name": "AZEAKU PRECIOUS EVANS"
+    },
+    {
+      "ns": 25,
+      "name": "BENLE DORINDA"
+    },
+    {
+      "ns": 26,
+      "name": "BENTIL EZEKIEL"
+    },
+    {
+      "ns": 27,
+      "name": "BILEY TANNOE CHRISTELLE ANGE"
+    },
+    {
+      "ns": 28,
+      "name": "BLAY ERNESTINA"
+    },
+    {
+      "ns": 29,
+      "name": "BLAY GIFTY AKASI"
+    },
+    {
+      "ns": 30,
+      "name": "CECILIA MENSAH"
+    },
+    {
+      "ns": 31,
+      "name": "COBBINAH OLIVIA"
+    },
+    {
+      "ns": 32,
+      "name": "COBBINAH PATINCE"
+    },
+    {
+      "ns": 33,
+      "name": "DANOMAH PARMELL ALPHA"
+    },
+    {
+      "ns": 34,
+      "name": "EDIEMI SHADRACK"
+    },
+    {
+      "ns": 35,
+      "name": "EHWIE KWAME PRINCESS"
+    },
+    {
+      "ns": 36,
+      "name": "EKOUE RUDOLF"
+    },
+    {
+      "ns": 37,
+      "name": "EMUCHIE DESMOND"
+    },
+    {
+      "ns": 38,
+      "name": "ENU TAY JOHN"
+    },
+    {
+      "ns": 39,
+      "name": "ERZOAH BENJAMIN"
+    },
+    {
+      "ns": 40,
+      "name": "ERZOAH EMMANUEL"
+    },
+    {
+      "ns": 41,
+      "name": "ESHUN EVA"
+    },
+    {
+      "ns": 42,
+      "name": "ESHUN REGINA EKUA"
+    },
+    {
+      "ns": 43,
+      "name": "ESSIEN SANDRA"
+    },
+    {
+      "ns": 44,
+      "name": "KAINYAH ISSABELLA"
+    },
+    {
+      "ns": 45,
+      "name": "KAKU JOHN"
+    },
+    {
+      "ns": 46,
+      "name": "KOFI ACKAH AUGUSTINE BOUA"
+    },
+    {
+      "ns": 47,
+      "name": "KOOMSON PRISCILLA"
+    },
+    {
+      "ns": 48,
+      "name": "KWASI DESMOND"
+    },
+    {
+      "ns": 49,
+      "name": "KYEREMAA CHRISTABEL"
+    },
+    {
+      "ns": 50,
+      "name": "MANFUL PRECIOUS"
+    },
+    {
+      "ns": 51,
+      "name": "MAPITEY KERSTIN AFIA"
+    },
+    {
+      "ns": 52,
+      "name": "MENSAH ANITA BROWN"
+    },
+    {
+      "ns": 53,
+      "name": "MENSAH REBCCA"
+    },
+    {
+      "ns": 54,
+      "name": "MOCTARI BIMITA"
+    },
+    {
+      "ns": 55,
+      "name": "NDAH NICOLAS"
+    },
+    {
+      "ns": 56,
+      "name": "OFORI FRANCISCA"
+    },
+    {
+      "ns": 57,
+      "name": "OWUSU DANIEL ENNIN"
+    },
+    {
+      "ns": 58,
+      "name": "PAINSTSIL BENJAMIN"
+    },
+    {
+      "ns": 59,
+      "name": "POLLEY FERD"
+    },
+    {
+      "ns": 60,
+      "name": "QUACOE PRISCILLA"
+    },
+    {
+      "ns": 61,
+      "name": "SIMPSON DESMOND SARBAH"
+    },
+    {
+      "ns": 62,
+      "name": "TEKPA JANE ANGELINA"
+    }
+  ],
+  "2 AGRIC 1": [
+    {
+      "ns": 1,
+      "name": "ADAMU ELIZABETH"
+    },
+    {
+      "ns": 2,
+      "name": "AGBENYO PROMISE"
+    },
+    {
+      "ns": 3,
+      "name": "AKAKPAIH GLADYS"
+    },
+    {
+      "ns": 4,
+      "name": "ALLIMAH DANIEL"
+    },
+    {
+      "ns": 5,
+      "name": "AMISSAH LAWRENCIA"
+    },
+    {
+      "ns": 6,
+      "name": "AMOAH STEPHANIE"
+    },
+    {
+      "ns": 7,
+      "name": "AMPONSAH REGINA"
+    },
+    {
+      "ns": 8,
+      "name": "APPIAH TANO JOHN"
+    },
+    {
+      "ns": 9,
+      "name": "ARTHUR LOUIS KOFI"
+    },
+    {
+      "ns": 10,
+      "name": "ASIEM BENJAMIN"
+    },
+    {
+      "ns": 11,
+      "name": "AZANE KODWO MATTHEW"
+    },
+    {
+      "ns": 12,
+      "name": "CUDJOE HANNAH"
+    },
+    {
+      "ns": 13,
+      "name": "DE-GRAFI DANIEL BRACE"
+    },
+    {
+      "ns": 14,
+      "name": "GYAN PRECIOUS"
+    },
+    {
+      "ns": 15,
+      "name": "GYASI PATRICK"
+    },
+    {
+      "ns": 16,
+      "name": "HACKMAN BRIGHT"
+    },
+    {
+      "ns": 17,
+      "name": "IBRAHIM DRAMANI KOJO"
+    },
+    {
+      "ns": 18,
+      "name": "JAPIONG EVANS"
+    },
+    {
+      "ns": 19,
+      "name": "KRAMPAH ELIZABETH"
+    },
+    {
+      "ns": 20,
+      "name": "KWASI RAPHAEL"
+    },
+    {
+      "ns": 21,
+      "name": "KWOFIE JOSHUA"
+    },
+    {
+      "ns": 22,
+      "name": "LAMPTEY ISAAC"
+    },
+    {
+      "ns": 23,
+      "name": "MENSAH JANICE ANDOH"
+    },
+    {
+      "ns": 24,
+      "name": "NYAMEKE JOSEPH ALLU"
+    },
+    {
+      "ns": 25,
+      "name": "OBENG OBED"
+    },
+    {
+      "ns": 26,
+      "name": "OBENG VINCENT OWUSU"
+    },
+    {
+      "ns": 27,
+      "name": "QUAICOE VIDA"
+    },
+    {
+      "ns": 28,
+      "name": "QUAINOO ANITA"
+    },
+    {
+      "ns": 29,
+      "name": "QUARM EZEKIEL"
+    },
+    {
+      "ns": 30,
+      "name": "SEREBOUR ELIZABETH"
+    },
+    {
+      "ns": 31,
+      "name": "SIAH RAPHAEL"
+    },
+    {
+      "ns": 32,
+      "name": "TEKYI EDNA"
+    },
+    {
+      "ns": 33,
+      "name": "TEYE KATE AGBO"
+    },
+    {
+      "ns": 34,
+      "name": "YAKUBU ERIC"
+    },
+    {
+      "ns": 35,
+      "name": "YANKEY ESTHER"
+    }
+  ],
+  "2 ARTS 6": [
+    {
+      "ns": 1,
+      "name": "ADAYI DEBORAH"
+    },
+    {
+      "ns": 2,
+      "name": "GYNA RHODA OHENE"
+    },
+    {
+      "ns": 3,
+      "name": "ISSAH DORIS"
+    },
+    {
+      "ns": 4,
+      "name": "NYAMEAH OLIVIA"
+    },
+    {
+      "ns": 5,
+      "name": "OCRAN JUDITH"
+    },
+    {
+      "ns": 6,
+      "name": "ALLU EMMANUELLA"
+    },
+    {
+      "ns": 7,
+      "name": "ELLEASON DERRICK"
+    },
+    {
+      "ns": 8,
+      "name": "KABENLA MELISSA"
+    },
+    {
+      "ns": 9,
+      "name": "MENSAH SAMUEL AMMO"
+    },
+    {
+      "ns": 10,
+      "name": "NARTEY MICHEAL KWESI"
+    },
+    {
+      "ns": 11,
+      "name": "NDAH SUSANA"
+    },
+    {
+      "ns": 12,
+      "name": "EZOA JACQUES"
+    },
+    {
+      "ns": 13,
+      "name": "JOHNSTON EDWINA AMA"
+    },
+    {
+      "ns": 14,
+      "name": "QUANSAH MARY"
+    },
+    {
+      "ns": 15,
+      "name": "YANKEY PRISCILLA"
+    }
+  ],
+  "2 AGRIC 2": [
+    {
+      "ns": 1,
+      "name": "AGBALEKPOR ENOCK KWOFIE"
+    },
+    {
+      "ns": 2,
+      "name": "AGBOLOSU HANNAH"
+    },
+    {
+      "ns": 3,
+      "name": "ALLASAH PATIENCE"
+    },
+    {
+      "ns": 4,
+      "name": "AMISSAH DESMOND AINOO"
+    },
+    {
+      "ns": 5,
+      "name": "AMUZU OSANA"
+    },
+    {
+      "ns": 6,
+      "name": "ANSAH SHADRACK"
+    },
+    {
+      "ns": 7,
+      "name": "ANYIMAH JEREMIAH"
+    },
+    {
+      "ns": 8,
+      "name": "ARAMAN CHRIS KOJO DYLAN"
+    },
+    {
+      "ns": 9,
+      "name": "ARHTUR GLORIA BRENUWA"
+    },
+    {
+      "ns": 10,
+      "name": "AWUAH CHRISTABEL"
+    },
+    {
+      "ns": 11,
+      "name": "BOADI LAWRENCIA"
+    },
+    {
+      "ns": 12,
+      "name": "CHRISTINA ANDOH"
+    },
+    {
+      "ns": 13,
+      "name": "EMMANUEL KWOFIE"
+    },
+    {
+      "ns": 14,
+      "name": "ERIC BOAH"
+    },
+    {
+      "ns": 15,
+      "name": "ESHUN SELINA"
+    },
+    {
+      "ns": 16,
+      "name": "KWOAW KINGSFORD"
+    },
+    {
+      "ns": 17,
+      "name": "KWOFIE ESTHER"
+    },
+    {
+      "ns": 18,
+      "name": "KWOFIE FLORENCE"
+    },
+    {
+      "ns": 19,
+      "name": "KYEREBOAH GODWIN"
+    },
+    {
+      "ns": 20,
+      "name": "MENASH MAXWELL"
+    },
+    {
+      "ns": 21,
+      "name": "OBENG CLIFFORD"
+    },
+    {
+      "ns": 22,
+      "name": "SAMUEL BONZO"
+    },
+    {
+      "ns": 23,
+      "name": "YAWSON GIDEON FREDRICK"
+    }
+  ],
+  "2 ARTS 3": [
+    {
+      "ns": 1,
+      "name": "ABIZI ESTHER"
+    },
+    {
+      "ns": 2,
+      "name": "ACKAH ELIZABETH"
+    },
+    {
+      "ns": 3,
+      "name": "ACKAHCHIE EL-FREDA"
+    },
+    {
+      "ns": 4,
+      "name": "ACKAINAM VICTORIA"
+    },
+    {
+      "ns": 5,
+      "name": "AGYEMANG MARTHA"
+    },
+    {
+      "ns": 6,
+      "name": "AIDOO MATILDA"
+    },
+    {
+      "ns": 7,
+      "name": "APPIAH LOIS HAFSA"
+    },
+    {
+      "ns": 8,
+      "name": "ASARE VANESSA"
+    },
+    {
+      "ns": 9,
+      "name": "ASIEDU HANNAH"
+    },
+    {
+      "ns": 10,
+      "name": "ASSUAH CHARITY"
+    },
+    {
+      "ns": 11,
+      "name": "AYITEY JANNICE"
+    },
+    {
+      "ns": 12,
+      "name": "BENFOUR ABIGAIL"
+    },
+    {
+      "ns": 13,
+      "name": "BROWN PEGGY"
+    },
+    {
+      "ns": 14,
+      "name": "CUDJOE FLOURENCE"
+    },
+    {
+      "ns": 15,
+      "name": "CUDJOE REGINA"
+    },
+    {
+      "ns": 16,
+      "name": "DABE BERNICE"
+    },
+    {
+      "ns": 17,
+      "name": "DAWDA SALAMATU"
+    },
+    {
+      "ns": 18,
+      "name": "DEKU DAREIOS SELORM"
+    },
+    {
+      "ns": 19,
+      "name": "ENTSIE GEORGINA"
+    },
+    {
+      "ns": 20,
+      "name": "EYISON GADDIELLA"
+    },
+    {
+      "ns": 21,
+      "name": "HARDING FLORENCE AWORTWE"
+    },
+    {
+      "ns": 22,
+      "name": "KWOFIE ESTHER"
+    },
+    {
+      "ns": 23,
+      "name": "KWOFIE ESTHER BLAY"
+    },
+    {
+      "ns": 24,
+      "name": "KWOFIE VERONICA"
+    },
+    {
+      "ns": 25,
+      "name": "NDEDE JEAN BOUA"
+    },
+    {
+      "ns": 26,
+      "name": "NDOLI EMMANUELLA NANA AMPOMA"
+    },
+    {
+      "ns": 27,
+      "name": "QUARSHIE NHYIRABA"
+    },
+    {
+      "ns": 28,
+      "name": "TWEN LORDINA"
+    },
+    {
+      "ns": 29,
+      "name": "YANKSON CHARITY"
+    }
+  ],
+  "2 ARTS 5": [
+    {
+      "ns": 1,
+      "name": "ACKON BEVELYN"
+    },
+    {
+      "ns": 2,
+      "name": "AFADA VICENTIA"
+    },
+    {
+      "ns": 3,
+      "name": "AFRAM YAW DESMOND NANA"
+    },
+    {
+      "ns": 4,
+      "name": "AGANAH ABARE NOBLE"
+    },
+    {
+      "ns": 5,
+      "name": "AMPONG ADELAIDE CUDJOE"
+    },
+    {
+      "ns": 6,
+      "name": "ANSIN SPENDYLOVE"
+    },
+    {
+      "ns": 7,
+      "name": "ASSUAH REBECCA"
+    },
+    {
+      "ns": 8,
+      "name": "ATINGA JOHN"
+    },
+    {
+      "ns": 9,
+      "name": "BABANAWO FRANCIS"
+    },
+    {
+      "ns": 10,
+      "name": "BAKARA AWASI"
+    },
+    {
+      "ns": 11,
+      "name": "BOADI KELVIN"
+    },
+    {
+      "ns": 12,
+      "name": "BOAMEYE BLESSING"
+    },
+    {
+      "ns": 13,
+      "name": "BORZAH JERRY KOJO"
+    },
+    {
+      "ns": 14,
+      "name": "CHRISTIAN FRANCIS"
+    },
+    {
+      "ns": 15,
+      "name": "COBBINAH PHILIP"
+    },
+    {
+      "ns": 16,
+      "name": "COBBINAH SELINA"
+    },
+    {
+      "ns": 17,
+      "name": "COFFIE EMMANUEL"
+    },
+    {
+      "ns": 18,
+      "name": "DUKU DORCAS"
+    },
+    {
+      "ns": 19,
+      "name": "EDOUKOU EUGENE"
+    },
+    {
+      "ns": 20,
+      "name": "EPPILAH LAWRENCIA"
+    },
+    {
+      "ns": 21,
+      "name": "ESSEL FESTUS"
+    },
+    {
+      "ns": 22,
+      "name": "GYAMFI VANESSA"
+    },
+    {
+      "ns": 23,
+      "name": "HAMADU INUSAH"
+    },
+    {
+      "ns": 24,
+      "name": "JABIALLU YASMINE"
+    },
+    {
+      "ns": 25,
+      "name": "KAKU PETER"
+    },
+    {
+      "ns": 26,
+      "name": "KONNIE SAVIOUR"
+    },
+    {
+      "ns": 27,
+      "name": "KWAW PRISCILLA"
+    },
+    {
+      "ns": 28,
+      "name": "KWAW VERONICA"
+    },
+    {
+      "ns": 29,
+      "name": "KWOFIE KATE"
+    },
+    {
+      "ns": 30,
+      "name": "NGOAH IRENE"
+    },
+    {
+      "ns": 31,
+      "name": "NTAMAH HELENA"
+    },
+    {
+      "ns": 32,
+      "name": "NYAME J. ESI APOKOA"
+    },
+    {
+      "ns": 33,
+      "name": "NYARKO JANET"
+    },
+    {
+      "ns": 34,
+      "name": "NYENZU FELICITY"
+    },
+    {
+      "ns": 35,
+      "name": "PAVIN ABIGAIL"
+    },
+    {
+      "ns": 36,
+      "name": "SARPONG AGNES AKUA"
+    },
+    {
+      "ns": 37,
+      "name": "TWENEBOAH COMFORT"
+    }
+  ],
+  "2 ARTS 2": [
+    {
+      "ns": 1,
+      "name": "ABDULAI SHERIF"
+    },
+    {
+      "ns": 2,
+      "name": "ACKAH VALENTINA AFIBA"
+    },
+    {
+      "ns": 3,
+      "name": "ADDIAH MILLICENT MANZA"
+    },
+    {
+      "ns": 4,
+      "name": "AKAINYAH ESTHER"
+    },
+    {
+      "ns": 5,
+      "name": "AKAMAH SARATU"
+    },
+    {
+      "ns": 6,
+      "name": "AKURUGU ESTHER"
+    },
+    {
+      "ns": 7,
+      "name": "ALLU PETRA JANE"
+    },
+    {
+      "ns": 8,
+      "name": "AMIHERE HANNAH"
+    },
+    {
+      "ns": 9,
+      "name": "ANSAH ANGELA ML-KAYELL"
+    },
+    {
+      "ns": 10,
+      "name": "ARCHER ALICE BLAY"
+    },
+    {
+      "ns": 11,
+      "name": "ARTHUR BISMARK"
+    },
+    {
+      "ns": 12,
+      "name": "ASARE RONALDI"
+    },
+    {
+      "ns": 13,
+      "name": "AWUAH SARAH YABA"
+    },
+    {
+      "ns": 14,
+      "name": "AZUMAH ROSE"
+    },
+    {
+      "ns": 15,
+      "name": "BAAFOH HAYFORD"
+    },
+    {
+      "ns": 16,
+      "name": "BLAYCHIE ABIGAIL"
+    },
+    {
+      "ns": 17,
+      "name": "BOAH NYAMEKEH FRANCISCA"
+    },
+    {
+      "ns": 18,
+      "name": "BOATENG REBECCA ADU"
+    },
+    {
+      "ns": 19,
+      "name": "BUAH PERPETUAL MARIAH"
+    },
+    {
+      "ns": 20,
+      "name": "BUAH PORTIA"
+    },
+    {
+      "ns": 21,
+      "name": "COBBINAH BERNICE"
+    },
+    {
+      "ns": 22,
+      "name": "CUDJOE BLESSING"
+    },
+    {
+      "ns": 23,
+      "name": "CUDJOE WILLIAMS ALIMAH"
+    },
+    {
+      "ns": 24,
+      "name": "DOGBEY VERITY"
+    },
+    {
+      "ns": 25,
+      "name": "DONKOR BENEDICTA MENEBIEMENGA"
+    },
+    {
+      "ns": 26,
+      "name": "EBULLEY VERA YABA"
+    },
+    {
+      "ns": 27,
+      "name": "ESHUN LINDA"
+    },
+    {
+      "ns": 28,
+      "name": "EWULLEY GLORIA KABENLA"
+    },
+    {
+      "ns": 29,
+      "name": "FUSEINI AZAHARA"
+    },
+    {
+      "ns": 30,
+      "name": "GYENI PRISCILLA"
+    },
+    {
+      "ns": 31,
+      "name": "INKUM AUGUSTINA"
+    },
+    {
+      "ns": 32,
+      "name": "KAITU GABRIELLA ENU"
+    },
+    {
+      "ns": 33,
+      "name": "KAKU ESTHER"
+    },
+    {
+      "ns": 34,
+      "name": "KORSAH DOREEN"
+    },
+    {
+      "ns": 35,
+      "name": "KWAMENAH FELICITY"
+    },
+    {
+      "ns": 36,
+      "name": "KWASI MAXWELL"
+    },
+    {
+      "ns": 37,
+      "name": "KWESI LAWRENRENCIA"
+    },
+    {
+      "ns": 38,
+      "name": "KWOFIE BENJAMIN"
+    },
+    {
+      "ns": 39,
+      "name": "KWOFIE EVA"
+    },
+    {
+      "ns": 40,
+      "name": "KWOFIE JUDITH"
+    },
+    {
+      "ns": 41,
+      "name": "LARRIB CHARITY"
+    },
+    {
+      "ns": 42,
+      "name": "MENSAH EDNA"
+    },
+    {
+      "ns": 43,
+      "name": "MIEZAH EMMANUEL"
+    },
+    {
+      "ns": 44,
+      "name": "MIEZAH-EKYI DEBORAH"
+    },
+    {
+      "ns": 45,
+      "name": "NKRUMAH ELIZABETH"
+    },
+    {
+      "ns": 46,
+      "name": "NYAMEKEH VIVIAN"
+    },
+    {
+      "ns": 47,
+      "name": "OFORI COMFORT"
+    },
+    {
+      "ns": 48,
+      "name": "OSEI ELIZABETH"
+    },
+    {
+      "ns": 49,
+      "name": "OWUSU AGNES"
+    },
+    {
+      "ns": 50,
+      "name": "PRAH ALICE"
+    },
+    {
+      "ns": 51,
+      "name": "QUAICOE ELIZABETH"
+    },
+    {
+      "ns": 52,
+      "name": "QUAICOE JUSTINA"
+    },
+    {
+      "ns": 53,
+      "name": "QUAICOE LOUISA"
+    },
+    {
+      "ns": 54,
+      "name": "QUARSHE PAULINA"
+    },
+    {
+      "ns": 55,
+      "name": "QUAYSON HANNAH NKETIAH"
+    },
+    {
+      "ns": 56,
+      "name": "RICHLOVE ESSEI EBELA"
+    }
+  ],
+  "2 ARTS 4": [
+    {
+      "ns": 1,
+      "name": "ABANGA VICTORIA"
+    },
+    {
+      "ns": 2,
+      "name": "ACQUAH EMELIA"
+    },
+    {
+      "ns": 3,
+      "name": "ADU LYDIA"
+    },
+    {
+      "ns": 4,
+      "name": "AMOAH MATTHEW"
+    },
+    {
+      "ns": 5,
+      "name": "AMPONSAH FAUSTINAH"
+    },
+    {
+      "ns": 6,
+      "name": "AMPONSAH PRINCESS"
+    },
+    {
+      "ns": 7,
+      "name": "ARMAH ELVIS"
+    },
+    {
+      "ns": 8,
+      "name": "ARTHUR EDNA"
+    },
+    {
+      "ns": 9,
+      "name": "ARTHUR SAMPSON"
+    },
+    {
+      "ns": 10,
+      "name": "ARTHUR SARAH"
+    },
+    {
+      "ns": 11,
+      "name": "ASABERE ENOCH NHYIRA"
+    },
+    {
+      "ns": 12,
+      "name": "AYENDAGO DIANA"
+    },
+    {
+      "ns": 13,
+      "name": "BAFFOE PATRICIA NHYIRABA"
+    },
+    {
+      "ns": 14,
+      "name": "BANNERFUL FAUSTINAH EKUA"
+    },
+    {
+      "ns": 15,
+      "name": "CUDJOE GLADYS"
+    },
+    {
+      "ns": 16,
+      "name": "CUDJOE JOANA"
+    },
+    {
+      "ns": 17,
+      "name": "ELLEAH PATIENCE AZELE"
+    },
+    {
+      "ns": 18,
+      "name": "ENIMAH ESTHER"
+    },
+    {
+      "ns": 19,
+      "name": "EWEREKO ZITA"
+    },
+    {
+      "ns": 20,
+      "name": "ISSAKA LOVE"
+    },
+    {
+      "ns": 21,
+      "name": "KRAKU OLIVIA"
+    },
+    {
+      "ns": 22,
+      "name": "KWAME GERTUDE"
+    },
+    {
+      "ns": 23,
+      "name": "KWAME LINDA"
+    },
+    {
+      "ns": 24,
+      "name": "KWAW VENESSA NDA-BOMO"
+    },
+    {
+      "ns": 25,
+      "name": "KWOFIE EVA"
+    },
+    {
+      "ns": 26,
+      "name": "KWOFIE MERCY"
+    },
+    {
+      "ns": 27,
+      "name": "MENSAH ANGELINA"
+    },
+    {
+      "ns": 28,
+      "name": "MENSAH GRACE ARABA"
+    },
+    {
+      "ns": 29,
+      "name": "NDEFO GRACE"
+    },
+    {
+      "ns": 30,
+      "name": "NKETIAH HANNAH"
+    },
+    {
+      "ns": 31,
+      "name": "NKETSIAH JESSICA ADJOA"
+    },
+    {
+      "ns": 32,
+      "name": "NYANGUM JANET"
+    },
+    {
+      "ns": 33,
+      "name": "NYANZU DEBORAH"
+    },
+    {
+      "ns": 34,
+      "name": "OWUSU LORDINA ASEDA"
+    },
+    {
+      "ns": 35,
+      "name": "QUANSAH GRACE"
+    },
+    {
+      "ns": 36,
+      "name": "QUAYSON ANDRINA MENYI YABA NYAMEKE"
+    },
+    {
+      "ns": 37,
+      "name": "QUAYSON BERNICE"
+    },
+    {
+      "ns": 38,
+      "name": "QUAYSON ERICA"
+    },
+    {
+      "ns": 39,
+      "name": "RICHES MAUREEN AWUNLE"
+    },
+    {
+      "ns": 40,
+      "name": "ROBERTSON JOYCELYN"
+    },
+    {
+      "ns": 41,
+      "name": "SAMMY EMMANUELLA"
+    },
+    {
+      "ns": 42,
+      "name": "SARPEY EVA LILY"
+    },
+    {
+      "ns": 43,
+      "name": "SECKUM DEBORAH"
+    },
+    {
+      "ns": 44,
+      "name": "TAGBOE STEPHENIE"
+    },
+    {
+      "ns": 45,
+      "name": "TEBAH BLESSING"
+    },
+    {
+      "ns": 46,
+      "name": "TEI SARAH"
+    },
+    {
+      "ns": 47,
+      "name": "WIREKOH REBECCA"
+    }
+  ],
+  "2 H/E 2": [
+    {
+      "ns": 1,
+      "name": "ABBAN PRISCILLA"
+    },
+    {
+      "ns": 2,
+      "name": "ACQUAH VICTORIA"
+    },
+    {
+      "ns": 3,
+      "name": "ADDAE HAGAR"
+    },
+    {
+      "ns": 4,
+      "name": "ADDAE MICHEAEL"
+    },
+    {
+      "ns": 5,
+      "name": "ADOMAH PATIENCE"
+    },
+    {
+      "ns": 6,
+      "name": "AFRE AUGUSTINA"
+    },
+    {
+      "ns": 7,
+      "name": "AGGREY RITA"
+    },
+    {
+      "ns": 8,
+      "name": "AGYILIRA BRIDGET"
+    },
+    {
+      "ns": 9,
+      "name": "AIDOO AGNES ASEDA"
+    },
+    {
+      "ns": 10,
+      "name": "AIDOO DOROTHY ESI"
+    },
+    {
+      "ns": 11,
+      "name": "ALHASSAN ALIMATU IDDRISU"
+    },
+    {
+      "ns": 12,
+      "name": "AMIHRE EVA NANA YAA"
+    },
+    {
+      "ns": 13,
+      "name": "AMISSAH CHARITY"
+    },
+    {
+      "ns": 14,
+      "name": "AMOAH CHRISTABEL OFOSU"
+    },
+    {
+      "ns": 15,
+      "name": "AMOO MORKYE BOMO"
+    },
+    {
+      "ns": 16,
+      "name": "ARTHUR JACKLINE"
+    },
+    {
+      "ns": 17,
+      "name": "ARTHUR MAGLINA"
+    },
+    {
+      "ns": 18,
+      "name": "ASAMOAH SANDRA"
+    },
+    {
+      "ns": 19,
+      "name": "ASANTE BEATRICE EFIA NKRUMAH"
+    },
+    {
+      "ns": 20,
+      "name": "ASILIJOE REBECCA"
+    },
+    {
+      "ns": 21,
+      "name": "AVONYOR JANET"
+    },
+    {
+      "ns": 22,
+      "name": "BAAKO FIDELIA"
+    },
+    {
+      "ns": 23,
+      "name": "BASINE SARAH"
+    },
+    {
+      "ns": 24,
+      "name": "BENLE KULONZU MATHILDA"
+    },
+    {
+      "ns": 25,
+      "name": "BINNEY THERESAH"
+    },
+    {
+      "ns": 26,
+      "name": "BLAY ACKAH NANCY"
+    },
+    {
+      "ns": 27,
+      "name": "BLAY GLORIA"
+    },
+    {
+      "ns": 28,
+      "name": "COBBINAH JOSEPHINE"
+    },
+    {
+      "ns": 29,
+      "name": "CUDJOE ESTHER"
+    },
+    {
+      "ns": 30,
+      "name": "CUDJOE LETICIA"
+    },
+    {
+      "ns": 31,
+      "name": "CUDJOE LORDINA AMA"
+    },
+    {
+      "ns": 32,
+      "name": "DADZIE GRACE EFUA"
+    },
+    {
+      "ns": 33,
+      "name": "DONKOR SABINA"
+    },
+    {
+      "ns": 34,
+      "name": "DONKOR SANDRA"
+    },
+    {
+      "ns": 35,
+      "name": "KOLORAH ELIZABETH"
+    },
+    {
+      "ns": 36,
+      "name": "KOOMSON R.AKYENEBA"
+    },
+    {
+      "ns": 37,
+      "name": "KPANDAWU FORGIVE"
+    },
+    {
+      "ns": 38,
+      "name": "MENSAH ALBERT"
+    },
+    {
+      "ns": 39,
+      "name": "MIAH PERPETUAL"
+    },
+    {
+      "ns": 40,
+      "name": "MORKEH FRANCISCA"
+    },
+    {
+      "ns": 41,
+      "name": "NAANA MAVIS"
+    },
+    {
+      "ns": 42,
+      "name": "NKRUMAH JENNIFER"
+    },
+    {
+      "ns": 43,
+      "name": "NYARKO DORCAS"
+    },
+    {
+      "ns": 44,
+      "name": "ODURO DANIELLA"
+    },
+    {
+      "ns": 45,
+      "name": "PENIAH BRIDGET"
+    },
+    {
+      "ns": 46,
+      "name": "QUACOE DORIS"
+    },
+    {
+      "ns": 47,
+      "name": "SASU JULIANA"
+    },
+    {
+      "ns": 48,
+      "name": "SUMAILA HALIMATU"
+    },
+    {
+      "ns": 49,
+      "name": "TETTEH CHRISTIANA"
+    },
+    {
+      "ns": 50,
+      "name": "TEYE MATSE JOYCE"
+    },
+    {
+      "ns": 51,
+      "name": "WILSON-SEY MICHELLE"
+    },
+    {
+      "ns": 52,
+      "name": "YANKEY EMMANUELLA"
+    },
+    {
+      "ns": 53,
+      "name": "YANKEY FRANCISCA"
+    }
+  ],
+  "2 H/E 4": [
+    {
+      "ns": 1,
+      "name": "ADAMU CECILIA"
+    },
+    {
+      "ns": 2,
+      "name": "AMIHERE ELLILOVE"
+    },
+    {
+      "ns": 3,
+      "name": "ANOKYEWAA FRANCISCA"
+    },
+    {
+      "ns": 4,
+      "name": "APPIAH ESTHER"
+    },
+    {
+      "ns": 5,
+      "name": "ASMAH MART"
+    },
+    {
+      "ns": 6,
+      "name": "AWINBILA DOROTHY MAMA"
+    },
+    {
+      "ns": 7,
+      "name": "AWUNI KUBELA"
+    },
+    {
+      "ns": 8,
+      "name": "BENEABIE MARY"
+    },
+    {
+      "ns": 9,
+      "name": "BOADI FLORENCE"
+    },
+    {
+      "ns": 10,
+      "name": "COBBOLD DANIELLA TAYIBA"
+    },
+    {
+      "ns": 11,
+      "name": "CONWAY JULIANA AMA"
+    },
+    {
+      "ns": 12,
+      "name": "CUDJOE FLORENCE"
+    },
+    {
+      "ns": 13,
+      "name": "DONKOH ABIGAIL"
+    },
+    {
+      "ns": 14,
+      "name": "DUUT FELICIA"
+    },
+    {
+      "ns": 15,
+      "name": "EBISSAH BENEDICTA"
+    },
+    {
+      "ns": 16,
+      "name": "EKONLAH DORIS"
+    },
+    {
+      "ns": 17,
+      "name": "ESSIFUL AGNES NYAMEKYE"
+    },
+    {
+      "ns": 18,
+      "name": "HOLY CHRISTABEL"
+    },
+    {
+      "ns": 19,
+      "name": "JWETAA GIFTY"
+    },
+    {
+      "ns": 20,
+      "name": "KABENLAH JOSEPHINE"
+    },
+    {
+      "ns": 21,
+      "name": "KAKU GIFTY"
+    },
+    {
+      "ns": 22,
+      "name": "KARIM FATAYA"
+    },
+    {
+      "ns": 23,
+      "name": "KARIM SAWUDATU HASAN"
+    },
+    {
+      "ns": 24,
+      "name": "KWASI JULIET"
+    },
+    {
+      "ns": 25,
+      "name": "KWOFIE EUNICE"
+    },
+    {
+      "ns": 26,
+      "name": "KWOFIE LAWRENCIA"
+    },
+    {
+      "ns": 27,
+      "name": "KYINLI PERPETUAL"
+    },
+    {
+      "ns": 28,
+      "name": "MANI KOFI HELENA"
+    },
+    {
+      "ns": 29,
+      "name": "MASEM PRINCESS COBBINA"
+    },
+    {
+      "ns": 30,
+      "name": "MENSAH JUSTINA"
+    },
+    {
+      "ns": 31,
+      "name": "MIEZAH BLESSING"
+    },
+    {
+      "ns": 32,
+      "name": "NDA-ACKAH ERNESTINA LORD"
+    },
+    {
+      "ns": 33,
+      "name": "NYARKOH BENEDICTA"
+    },
+    {
+      "ns": 34,
+      "name": "NYONRA ELIZABETH BETTY"
+    },
+    {
+      "ns": 35,
+      "name": "QUANSAH DANIELLA PEARL"
+    },
+    {
+      "ns": 36,
+      "name": "QUANSAH RICHLOVE"
+    },
+    {
+      "ns": 37,
+      "name": "QUAYSON OPHELIA"
+    },
+    {
+      "ns": 38,
+      "name": "SAPOMAH COMFORT"
+    },
+    {
+      "ns": 39,
+      "name": "TAADU KHADIJATU"
+    },
+    {
+      "ns": 40,
+      "name": "TANE GIFTY"
+    },
+    {
+      "ns": 41,
+      "name": "TANOE RHODA"
+    },
+    {
+      "ns": 42,
+      "name": "YANKEY MAVIS AYA"
+    }
+  ],
+  "2 H/E 1": [
+    {
+      "ns": 1,
+      "name": "ABDUL MUMIN BUSHIRATU"
+    },
+    {
+      "ns": 2,
+      "name": "ACKAH MATHILDA AMA"
+    },
+    {
+      "ns": 3,
+      "name": "ADANE IRENE ANNOR"
+    },
+    {
+      "ns": 4,
+      "name": "AHWI OLIVIA"
+    },
+    {
+      "ns": 5,
+      "name": "AMADU WASHIRATU"
+    },
+    {
+      "ns": 6,
+      "name": "AMOAKOA BLESSING"
+    },
+    {
+      "ns": 7,
+      "name": "ANGATE BORCAH NANA DIA"
+    },
+    {
+      "ns": 8,
+      "name": "ARTHUR JUDITH"
+    },
+    {
+      "ns": 9,
+      "name": "ATIKU RUTH"
+    },
+    {
+      "ns": 10,
+      "name": "ATUMI CHRISTABEL AKUBA"
+    },
+    {
+      "ns": 11,
+      "name": "BLAY ADRIANA AKOSUA"
+    },
+    {
+      "ns": 12,
+      "name": "COBBINAH VIDA YABA"
+    },
+    {
+      "ns": 13,
+      "name": "CUDJOE CHRISTABEL"
+    },
+    {
+      "ns": 14,
+      "name": "EPHRAM MERCY"
+    },
+    {
+      "ns": 15,
+      "name": "ERZAH BEATRICE ABENA"
+    },
+    {
+      "ns": 16,
+      "name": "GLIKPO MARY"
+    },
+    {
+      "ns": 17,
+      "name": "KRAH CHRISTABEL"
+    },
+    {
+      "ns": 18,
+      "name": "KWASI JUSTINA"
+    },
+    {
+      "ns": 19,
+      "name": "NGUERAM DEBORAH"
+    },
+    {
+      "ns": 20,
+      "name": "NYANEHUNZEMA AGNES"
+    },
+    {
+      "ns": 21,
+      "name": "NYANZU ANDRIANA"
+    },
+    {
+      "ns": 22,
+      "name": "QUANSAH JENNIFER A."
+    },
+    {
+      "ns": 23,
+      "name": "TANOE PORTIA"
+    },
+    {
+      "ns": 24,
+      "name": "YAWSON BLESSING NANA AMA"
+    }
+  ],
+  "2 H/E 3": [
+    {
+      "ns": 1,
+      "name": "ADDO SALOMEY DJAN"
+    },
+    {
+      "ns": 2,
+      "name": "AHENAKWAH CECILIA"
+    },
+    {
+      "ns": 3,
+      "name": "AKROWEY NAOMI"
+    },
+    {
+      "ns": 4,
+      "name": "AKUFO SARAH"
+    },
+    {
+      "ns": 5,
+      "name": "AMUZU RUBBY"
+    },
+    {
+      "ns": 6,
+      "name": "ANANE LAWRENCE"
+    },
+    {
+      "ns": 7,
+      "name": "ANANE MILLICENT"
+    },
+    {
+      "ns": 8,
+      "name": "ANYIMAH EVELYN HORBACHIE"
+    },
+    {
+      "ns": 9,
+      "name": "ANYO PRICILLA"
+    },
+    {
+      "ns": 10,
+      "name": "ARMAH UNIQUE"
+    },
+    {
+      "ns": 11,
+      "name": "ARTHUR CHRISTINA"
+    },
+    {
+      "ns": 12,
+      "name": "ASARE CONSTANCE KORKOR"
+    },
+    {
+      "ns": 13,
+      "name": "BAAH CLASSICAL"
+    },
+    {
+      "ns": 14,
+      "name": "BIEKU RITA"
+    },
+    {
+      "ns": 15,
+      "name": "BOATENG CHRISTIANA"
+    },
+    {
+      "ns": 16,
+      "name": "BONZOH EUNICE YABA"
+    },
+    {
+      "ns": 17,
+      "name": "CUDJOE CONFIDENCE"
+    },
+    {
+      "ns": 18,
+      "name": "DORMOH EMELIA"
+    },
+    {
+      "ns": 19,
+      "name": "EGYIR FLORENCE"
+    },
+    {
+      "ns": 20,
+      "name": "EMMANUELLA ACKAH AMIHERE"
+    },
+    {
+      "ns": 21,
+      "name": "ESTHER GYAN"
+    },
+    {
+      "ns": 22,
+      "name": "FOSU ESTHER"
+    },
+    {
+      "ns": 23,
+      "name": "JOHNSON BLESSING ESI"
+    },
+    {
+      "ns": 24,
+      "name": "JOHNSON VERONICA"
+    },
+    {
+      "ns": 25,
+      "name": "KAKU GIFTY"
+    },
+    {
+      "ns": 26,
+      "name": "KOOMSON AGNES"
+    },
+    {
+      "ns": 27,
+      "name": "KWAW SHEPHAINE SENZU"
+    },
+    {
+      "ns": 28,
+      "name": "KWOFIE MAVIS SENA"
+    },
+    {
+      "ns": 29,
+      "name": "MENSAH EMMANUELLA"
+    },
+    {
+      "ns": 30,
+      "name": "MENSAH JANET"
+    },
+    {
+      "ns": 31,
+      "name": "MOHAMMED SHAMSIYATU"
+    },
+    {
+      "ns": 32,
+      "name": "NFATSE REBECCA"
+    },
+    {
+      "ns": 33,
+      "name": "NORSENA GIFTY"
+    },
+    {
+      "ns": 34,
+      "name": "NYAME ANGELINA"
+    },
+    {
+      "ns": 35,
+      "name": "NYAME CONSTANCE"
+    },
+    {
+      "ns": 36,
+      "name": "NYARKO GRACE"
+    },
+    {
+      "ns": 37,
+      "name": "OFORI ESTHER"
+    },
+    {
+      "ns": 38,
+      "name": "PAYNE FELICIA"
+    },
+    {
+      "ns": 39,
+      "name": "QUAYSON ROSABEL"
+    },
+    {
+      "ns": 40,
+      "name": "QUAYSON ROSABELL"
+    },
+    {
+      "ns": 41,
+      "name": "REGINA DANIELS"
+    },
+    {
+      "ns": 42,
+      "name": "SENGYEI MATHILDA"
+    },
+    {
+      "ns": 43,
+      "name": "TWENEBOAH NATASHIA"
+    },
+    {
+      "ns": 44,
+      "name": "WHASAH ROSE"
+    },
+    {
+      "ns": 45,
+      "name": "YANKEY HANNAH"
+    },
+    {
+      "ns": 46,
+      "name": "YAYRA ATTISEY"
+    }
+  ],
+  "2 BUSINESS": [
+    {
+      "ns": 1,
+      "name": "ANNAN DANINE CYNDERELLA"
+    },
+    {
+      "ns": 2,
+      "name": "ARHIN SARAH"
+    },
+    {
+      "ns": 3,
+      "name": "BENSON SPENDLOVE"
+    },
+    {
+      "ns": 4,
+      "name": "DANQUAH MARVELOUS"
+    },
+    {
+      "ns": 5,
+      "name": "ESHUN ISAAC"
+    },
+    {
+      "ns": 6,
+      "name": "ESSIEN ANDREWS"
+    },
+    {
+      "ns": 7,
+      "name": "KRAH THEOPHILUS"
+    },
+    {
+      "ns": 8,
+      "name": "KWOFIE LAWRENTA"
+    },
+    {
+      "ns": 9,
+      "name": "MENSAH CYNTHIA"
+    },
+    {
+      "ns": 10,
+      "name": "MENSAH GODWIN"
+    },
+    {
+      "ns": 11,
+      "name": "MENSAH MABEL"
+    },
+    {
+      "ns": 12,
+      "name": "QUANSAH CHRISTA"
+    },
+    {
+      "ns": 13,
+      "name": "THOMSON GRACE"
+    },
+    {
+      "ns": 14,
+      "name": "YEGBE DOROTHY"
+    }
+  ],
+  "2 SCIENCE 2": [
+    {
+      "ns": 1,
+      "name": "ADJEI RITA EBELA"
+    },
+    {
+      "ns": 2,
+      "name": "AFARI PRINCE KOJO"
+    },
+    {
+      "ns": 3,
+      "name": "AMOAH STEPHEN ABOAKYE"
+    },
+    {
+      "ns": 4,
+      "name": "APPIAH PRECIOUS ESI"
+    },
+    {
+      "ns": 5,
+      "name": "ARHIN FRANCIS"
+    },
+    {
+      "ns": 6,
+      "name": "ARMAH ISAAC"
+    },
+    {
+      "ns": 7,
+      "name": "BLAY VANESSA AWUZAMA"
+    },
+    {
+      "ns": 8,
+      "name": "BOAMAH CHRISTABEL YABA"
+    },
+    {
+      "ns": 9,
+      "name": "COBBOLD EMMANUELLA MAAME NDEDE"
+    },
+    {
+      "ns": 10,
+      "name": "CUDJOE EMMANUEL"
+    },
+    {
+      "ns": 11,
+      "name": "DANSO GULISTAN"
+    },
+    {
+      "ns": 12,
+      "name": "DJI JOYCE"
+    },
+    {
+      "ns": 13,
+      "name": "GABBI TANE"
+    },
+    {
+      "ns": 14,
+      "name": "HIMMENS ERICA"
+    },
+    {
+      "ns": 15,
+      "name": "ISAAH BINTU"
+    },
+    {
+      "ns": 16,
+      "name": "KORANGYE RUTH"
+    },
+    {
+      "ns": 17,
+      "name": "MBRON SARAH"
+    },
+    {
+      "ns": 18,
+      "name": "MELABAH MESHACK KABENLA"
+    },
+    {
+      "ns": 19,
+      "name": "MONNEY EWURABENA NYARKO"
+    },
+    {
+      "ns": 20,
+      "name": "MORKEH ANGELA AYA"
+    },
+    {
+      "ns": 21,
+      "name": "NDAKAH ISABELLA BENIE"
+    },
+    {
+      "ns": 22,
+      "name": "NYAMEKEH ANGELINA AHU"
+    },
+    {
+      "ns": 23,
+      "name": "NYANKEY MATHILDA"
+    },
+    {
+      "ns": 24,
+      "name": "OWUSU MANU KELVIN"
+    },
+    {
+      "ns": 25,
+      "name": "QUANSAH WILLEVANS"
+    },
+    {
+      "ns": 26,
+      "name": "SARPONG SAVIOUR"
+    },
+    {
+      "ns": 27,
+      "name": "SOMIAH FLORENCE"
+    },
+    {
+      "ns": 28,
+      "name": "ZIKPI SENA MERCY"
+    }
+  ],
+  "2 SCIENCE 1": [
+    {
+      "ns": 1,
+      "name": "ABIZIE ABIGAIL AKABA"
+    },
+    {
+      "ns": 2,
+      "name": "ACKAH JOYCELYN"
+    },
+    {
+      "ns": 3,
+      "name": "ACKAH LILIAN"
+    },
+    {
+      "ns": 4,
+      "name": "ACKAH-ERZOAH IRENE"
+    },
+    {
+      "ns": 5,
+      "name": "ACKON ROOSEVELT VAN"
+    },
+    {
+      "ns": 6,
+      "name": "ACQUAH ELMA AKOSUA ASANOWAH"
+    },
+    {
+      "ns": 7,
+      "name": "ACQUAYE OLIVERT"
+    },
+    {
+      "ns": 8,
+      "name": "ADJEI SAKYI DINA AMA"
+    },
+    {
+      "ns": 9,
+      "name": "AFARI STEPHANE"
+    },
+    {
+      "ns": 10,
+      "name": "ALIEFEH RHODA"
+    },
+    {
+      "ns": 11,
+      "name": "ANDOH VICTORIA"
+    },
+    {
+      "ns": 12,
+      "name": "ARCHER NESTERINA"
+    },
+    {
+      "ns": 13,
+      "name": "ARHIN LOUISA"
+    },
+    {
+      "ns": 14,
+      "name": "ASHUN-SARPY HELGA-BENEDICTA"
+    },
+    {
+      "ns": 15,
+      "name": "ASSEFUAH DANIEL"
+    },
+    {
+      "ns": 16,
+      "name": "AYICHIGA JACKSON MAJEED SAGE"
+    },
+    {
+      "ns": 17,
+      "name": "BEYEBISAH ERICA OCRAN"
+    },
+    {
+      "ns": 18,
+      "name": "BLAY DARE"
+    },
+    {
+      "ns": 19,
+      "name": "BOATENG STEPHANIE"
+    },
+    {
+      "ns": 20,
+      "name": "BONYAH EMILY AFIBA"
+    },
+    {
+      "ns": 21,
+      "name": "CHAMANYA BERNICE"
+    },
+    {
+      "ns": 22,
+      "name": "ESSIEN MICHEAL EBEKAI OFORI"
+    },
+    {
+      "ns": 23,
+      "name": "ESSILFIE ADELAIDE BENTUM"
+    },
+    {
+      "ns": 24,
+      "name": "GYAMFI RAZAK"
+    },
+    {
+      "ns": 25,
+      "name": "GYENI DEBORAH"
+    },
+    {
+      "ns": 26,
+      "name": "IBRAHIM VERONICA ARMAH"
+    },
+    {
+      "ns": 27,
+      "name": "KUATSIKOR VANESSA AFI KUMADOR"
+    },
+    {
+      "ns": 28,
+      "name": "KWAW NATASHA NKETSIA"
+    },
+    {
+      "ns": 29,
+      "name": "MENSAH EMMANUEL"
+    },
+    {
+      "ns": 30,
+      "name": "MENSAH EZEKIEL"
+    },
+    {
+      "ns": 31,
+      "name": "MIEZAH CHRISTIAN AMGBO"
+    },
+    {
+      "ns": 32,
+      "name": "MORKEH MARY"
+    },
+    {
+      "ns": 33,
+      "name": "NSOWAH MAVIS"
+    },
+    {
+      "ns": 34,
+      "name": "QUAICOE DOROTHY"
+    },
+    {
+      "ns": 35,
+      "name": "QUARM JEHOSHAPHAT"
+    },
+    {
+      "ns": 36,
+      "name": "QUARMSON FELIX"
+    },
+    {
+      "ns": 37,
+      "name": "QUAYSIE FORTUNATUS KWAMENA"
+    },
+    {
+      "ns": 38,
+      "name": "QUAYSON PATRICK"
+    },
+    {
+      "ns": 39,
+      "name": "SEKYI LETICIA"
+    },
+    {
+      "ns": 40,
+      "name": "TANKO PRISCA"
+    },
+    {
+      "ns": 41,
+      "name": "WERRE ABIGAIL"
+    },
+    {
+      "ns": 42,
+      "name": "YALLEY PRINCESS EFUA"
+    },
+    {
+      "ns": 43,
+      "name": "YANKEY EMMANUEL"
+    },
+    {
+      "ns": 44,
+      "name": "YANKEY FESTUS"
+    },
+    {
+      "ns": 45,
+      "name": "YANKEY JOSEPH"
+    }
+  ],
+  "2 VISUAL ARTS 1": [
+    {
+      "ns": 1,
+      "name": "ACKAH RACHEAL"
+    },
+    {
+      "ns": 2,
+      "name": "ADAMU ZALIA"
+    },
+    {
+      "ns": 3,
+      "name": "ALOKOR JOHN"
+    },
+    {
+      "ns": 4,
+      "name": "AMINU HAMIDU"
+    },
+    {
+      "ns": 5,
+      "name": "ARTHUR ABRAHAM"
+    },
+    {
+      "ns": 6,
+      "name": "AYELEY SAMPSON"
+    },
+    {
+      "ns": 7,
+      "name": "CUDJOE EMMANUEL"
+    },
+    {
+      "ns": 8,
+      "name": "EDDIE WILLIAMS"
+    },
+    {
+      "ns": 9,
+      "name": "ESSIEN MICHAEL"
+    },
+    {
+      "ns": 10,
+      "name": "NOKOE CHRISTOPHER"
+    },
+    {
+      "ns": 11,
+      "name": "NRENZA GLORIA"
+    },
+    {
+      "ns": 12,
+      "name": "OCRAN PATRICK"
+    },
+    {
+      "ns": 13,
+      "name": "QUAINOO MARKSETH"
+    },
+    {
+      "ns": 14,
+      "name": "QUAYSON PRINCE DADDY"
+    },
+    {
+      "ns": 15,
+      "name": "SAMSUDEE ABDULAI"
+    },
+    {
+      "ns": 16,
+      "name": "STEPHEN NYARKO"
+    },
+    {
+      "ns": 17,
+      "name": "TAKYI FRANCIS"
+    },
+    {
+      "ns": 18,
+      "name": "YIRIBEY GRACE"
+    }
+  ],
+  "2 VISUAL ARTS 2": [
+    {
+      "ns": 1,
+      "name": "ADAMA DEBORAH"
+    },
+    {
+      "ns": 2,
+      "name": "ADDO WISDOM JONAS"
+    },
+    {
+      "ns": 3,
+      "name": "AFFAMOAH PATRICK COLLINS"
+    },
+    {
+      "ns": 4,
+      "name": "AGBENYO ELIJAH"
+    },
+    {
+      "ns": 5,
+      "name": "AGGEREY CEPHAS PRINCE"
+    },
+    {
+      "ns": 6,
+      "name": "AIDOO ERIC SERSAH"
+    },
+    {
+      "ns": 7,
+      "name": "AKABI FRNACIS"
+    },
+    {
+      "ns": 8,
+      "name": "ANDERSON AGNES"
+    },
+    {
+      "ns": 9,
+      "name": "ANDOH JEREMIAH"
+    },
+    {
+      "ns": 10,
+      "name": "ANNAN BEATRICE"
+    },
+    {
+      "ns": 11,
+      "name": "ASAMOAH LAWRENCE"
+    },
+    {
+      "ns": 12,
+      "name": "ASANTE JESSICA"
+    },
+    {
+      "ns": 13,
+      "name": "BAIDOO STEPHEN"
+    },
+    {
+      "ns": 14,
+      "name": "BLAY KWAW ALICE"
+    },
+    {
+      "ns": 15,
+      "name": "DEENSIE BENEDICT"
+    },
+    {
+      "ns": 16,
+      "name": "DOTSE NOAH"
+    },
+    {
+      "ns": 17,
+      "name": "ENUAPAH VIVIAN"
+    },
+    {
+      "ns": 18,
+      "name": "GYEMAN GRACE OKO"
+    },
+    {
+      "ns": 19,
+      "name": "IBRAHIM SIDIC"
+    },
+    {
+      "ns": 20,
+      "name": "KARIM BENEDICTA ABU"
+    },
+    {
+      "ns": 21,
+      "name": "KWASI GEORGE"
+    },
+    {
+      "ns": 22,
+      "name": "KWASI PRISCILLA"
+    },
+    {
+      "ns": 23,
+      "name": "MENIABE SYLVESTER"
+    },
+    {
+      "ns": 24,
+      "name": "MENSAH DESMOND ADU"
+    },
+    {
+      "ns": 25,
+      "name": "MENSAH JEREMIAH"
+    },
+    {
+      "ns": 26,
+      "name": "MENSAH JOSEPH"
+    },
+    {
+      "ns": 27,
+      "name": "NDEFO EMMANUEL"
+    },
+    {
+      "ns": 28,
+      "name": "OPPANDOH ABIGAIL"
+    },
+    {
+      "ns": 29,
+      "name": "TOKU BLESSING"
+    }
+  ]
+}

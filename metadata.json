@@ -1,0 +1,6 @@
+{
+  "name": "NKAS School Portal",
+  "description": "Student and Admin Portal for Nkroful Agricultural Secondary Technical School (NKAS), featuring authentication, student dashboards, grade reporting, fee management, and academic timetables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
